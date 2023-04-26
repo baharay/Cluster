@@ -129,7 +129,7 @@ job simultaneously.
 
 ## Submit using "kubectl apply -f"
 
-* Using Kebernetes you will have more freedom to configure your pods.
+* Using Kubernetes you will have more freedom to configure your pods.
 * You can find some sample yaml files under the [yaml_files](./yaml_files)
 * To submit a job using your config file run `kubectl apply -f config.yaml`
 
